@@ -107,6 +107,4 @@ allure open allure-report
 
 ## 👤 Author
 
-**Parimal Jagtap** — SDET | 4+ Years  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parimaljagtap-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parimaljagtap)
-## 📊 CI/CD Pipeline
+**SAMARTH SINGH BAGHEL (BITS PILANI)** — 
