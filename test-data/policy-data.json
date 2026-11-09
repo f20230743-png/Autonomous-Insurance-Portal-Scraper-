@@ -1,0 +1,40 @@
+{
+  "healthPolicy": {
+    "type": "Health",
+    "holderName": "John Test User",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "premium": "5000"
+  },
+  "autoPolicy": {
+    "type": "Auto",
+    "holderName": "Jane Test User",
+    "startDate": "2025-02-01",
+    "endDate": "2026-01-31",
+    "premium": "8000"
+  },
+  "lifePolicy": {
+    "type": "Life",
+    "holderName": "Test Holder",
+    "startDate": "2025-01-01",
+    "endDate": "2030-12-31",
+    "premium": "12000"
+  },
+  "claims": {
+    "accidentClaim": {
+      "type": "Accident",
+      "policyNumber": "POL-2024-001",
+      "description": "Vehicle accident on highway"
+    },
+    "healthClaim": {
+      "type": "Health",
+      "policyNumber": "POL-2024-002",
+      "description": "Medical emergency hospitalization"
+    },
+    "propertyClaim": {
+      "type": "Property",
+      "policyNumber": "POL-2024-003",
+      "description": "Property damage due to flooding"
+    }
+  }
+}
